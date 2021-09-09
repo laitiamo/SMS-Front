@@ -1,0 +1,102 @@
+Date : 2021-09-09 00:30:51
+Directory : e:\StudentManagement\STU-front
+Total : 57 files,  29778 codes, 8 comments, 343 blanks, all 30129 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     25,885 |          0 |          2 |     25,887 |
+| Vue        |         23 |      3,029 |          7 |        163 |      3,199 |
+| JavaScript |         29 |        716 |          1 |        155 |        872 |
+| HTML       |          1 |        121 |          0 |         15 |        136 |
+| Markdown   |          1 |         18 |          0 |          6 |         24 |
+| CSS        |          1 |          9 |          0 |          2 |         11 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |         57 |     29,778 |          8 |        343 |     30,129 |
+| public                                                                   |          1 |        121 |          0 |         15 |        136 |
+| src                                                                      |         51 |      3,737 |          8 |        318 |      4,063 |
+| src\api                                                                  |         19 |        194 |          0 |        104 |        298 |
+| src\api\admin                                                            |          8 |        130 |          0 |         68 |        198 |
+| src\api\student                                                          |          6 |         26 |          0 |         17 |         43 |
+| src\api\teacher                                                          |          3 |         18 |          0 |         10 |         28 |
+| src\assets                                                               |          1 |          9 |          0 |          2 |         11 |
+| src\assets\css                                                           |          1 |          9 |          0 |          2 |         11 |
+| src\common                                                               |          5 |        287 |          0 |         35 |        322 |
+| src\components                                                           |          2 |        291 |          0 |         26 |        317 |
+| src\router                                                               |          1 |        143 |          0 |          5 |        148 |
+| src\store                                                                |          1 |         55 |          1 |          4 |         60 |
+| src\views                                                                |         20 |      2,678 |          7 |        129 |      2,814 |
+| src\views\admin                                                          |          8 |      1,659 |          0 |         61 |      1,720 |
+| src\views\student                                                        |          6 |        414 |          0 |         31 |        445 |
+| src\views\teacher                                                        |          3 |        225 |          0 |         17 |        242 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                 | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| e:\StudentManagement\STU-front\.eslintrc.js                              | JavaScript |         14 |          0 |          1 |         15 |
+| e:\StudentManagement\STU-front\README.md                                 | Markdown   |         18 |          0 |          6 |         24 |
+| e:\StudentManagement\STU-front\babel.config.js                           | JavaScript |          3 |          0 |          1 |          4 |
+| e:\StudentManagement\STU-front\package-lock.json                         | JSON       |     25,847 |          0 |          1 |     25,848 |
+| e:\StudentManagement\STU-front\package.json                              | JSON       |         38 |          0 |          1 |         39 |
+| e:\StudentManagement\STU-front\public\index.html                         | HTML       |        121 |          0 |         15 |        136 |
+| e:\StudentManagement\STU-front\src\App.vue                               | Vue        |         60 |          0 |          8 |         68 |
+| e:\StudentManagement\STU-front\src\api\admin\admin.js                    | JavaScript |          6 |          0 |          6 |         12 |
+| e:\StudentManagement\STU-front\src\api\admin\class.js                    | JavaScript |         19 |          0 |          9 |         28 |
+| e:\StudentManagement\STU-front\src\api\admin\course.js                   | JavaScript |         19 |          0 |          9 |         28 |
+| e:\StudentManagement\STU-front\src\api\admin\department.js               | JavaScript |         15 |          0 |          9 |         24 |
+| e:\StudentManagement\STU-front\src\api\admin\major.js                    | JavaScript |         17 |          0 |          9 |         26 |
+| e:\StudentManagement\STU-front\src\api\admin\student.js                  | JavaScript |         19 |          0 |          9 |         28 |
+| e:\StudentManagement\STU-front\src\api\admin\studentCourse.js            | JavaScript |         18 |          0 |          8 |         26 |
+| e:\StudentManagement\STU-front\src\api\admin\teacher.js                  | JavaScript |         17 |          0 |          9 |         26 |
+| e:\StudentManagement\STU-front\src\api\option.js                         | JavaScript |         12 |          0 |          5 |         17 |
+| e:\StudentManagement\STU-front\src\api\student\course.js                 | JavaScript |          4 |          0 |          3 |          7 |
+| e:\StudentManagement\STU-front\src\api\student\courseSelect.js           | JavaScript |         13 |          0 |          5 |         18 |
+| e:\StudentManagement\STU-front\src\api\student\exam.js                   | JavaScript |          2 |          0 |          2 |          4 |
+| e:\StudentManagement\STU-front\src\api\student\info.js                   | JavaScript |          3 |          0 |          3 |          6 |
+| e:\StudentManagement\STU-front\src\api\student\score.js                  | JavaScript |          2 |          0 |          2 |          4 |
+| e:\StudentManagement\STU-front\src\api\student\timetable.js              | JavaScript |          2 |          0 |          2 |          4 |
+| e:\StudentManagement\STU-front\src\api\teacher\course.js                 | JavaScript |          2 |          0 |          2 |          4 |
+| e:\StudentManagement\STU-front\src\api\teacher\grade.js                  | JavaScript |         14 |          0 |          6 |         20 |
+| e:\StudentManagement\STU-front\src\api\teacher\timetable.js              | JavaScript |          2 |          0 |          2 |          4 |
+| e:\StudentManagement\STU-front\src\api\user.js                           | JavaScript |          8 |          0 |          4 |         12 |
+| e:\StudentManagement\STU-front\src\assets\css\main.css                   | CSS        |          9 |          0 |          2 |         11 |
+| e:\StudentManagement\STU-front\src\common\ajax.js                        | JavaScript |        128 |          0 |         21 |        149 |
+| e:\StudentManagement\STU-front\src\common\config.js                      | JavaScript |          3 |          0 |          3 |          6 |
+| e:\StudentManagement\STU-front\src\common\permission.js                  | JavaScript |         12 |          0 |          4 |         16 |
+| e:\StudentManagement\STU-front\src\common\sideBarItem.js                 | JavaScript |        139 |          0 |          4 |        143 |
+| e:\StudentManagement\STU-front\src\common\userType.js                    | JavaScript |          5 |          0 |          3 |          8 |
+| e:\StudentManagement\STU-front\src\components\HeadBar.vue                | Vue        |        143 |          0 |         14 |        157 |
+| e:\StudentManagement\STU-front\src\components\TimeTable.vue              | Vue        |        148 |          0 |         12 |        160 |
+| e:\StudentManagement\STU-front\src\main.js                               | JavaScript |         20 |          0 |          5 |         25 |
+| e:\StudentManagement\STU-front\src\router\router.js                      | JavaScript |        143 |          0 |          5 |        148 |
+| e:\StudentManagement\STU-front\src\store\store.js                        | JavaScript |         55 |          1 |          4 |         60 |
+| e:\StudentManagement\STU-front\src\views\Container.vue                   | Vue        |         58 |          0 |          5 |         63 |
+| e:\StudentManagement\STU-front\src\views\Home.vue                        | Vue        |        179 |          7 |          3 |        189 |
+| e:\StudentManagement\STU-front\src\views\Login.vue                       | Vue        |        143 |          0 |         12 |        155 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminAdmin.vue            | Vue        |        161 |          0 |         10 |        171 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminClass.vue            | Vue        |        200 |          0 |          7 |        207 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminCourse.vue           | Vue        |        292 |          0 |          8 |        300 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminDepartment.vue       | Vue        |        147 |          0 |          6 |        153 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminMajor.vue            | Vue        |        177 |          0 |          8 |        185 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminStudent.vue          | Vue        |        234 |          0 |          7 |        241 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminStudentCourse.vue    | Vue        |        262 |          0 |          8 |        270 |
+| e:\StudentManagement\STU-front\src\views\admin\AdminTeacher.vue          | Vue        |        186 |          0 |          7 |        193 |
+| e:\StudentManagement\STU-front\src\views\student\StudentCourse.vue       | Vue        |         62 |          0 |          5 |         67 |
+| e:\StudentManagement\STU-front\src\views\student\StudentCourseSelect.vue | Vue        |        123 |          0 |          6 |        129 |
+| e:\StudentManagement\STU-front\src\views\student\StudentExam.vue         | Vue        |         44 |          0 |          5 |         49 |
+| e:\StudentManagement\STU-front\src\views\student\StudentInfo.vue         | Vue        |         97 |          0 |          5 |        102 |
+| e:\StudentManagement\STU-front\src\views\student\StudentScore.vue        | Vue        |         60 |          0 |          5 |         65 |
+| e:\StudentManagement\STU-front\src\views\student\StudentTimeTable.vue    | Vue        |         28 |          0 |          5 |         33 |
+| e:\StudentManagement\STU-front\src\views\teacher\TeacherCourse.vue       | Vue        |         47 |          0 |          5 |         52 |
+| e:\StudentManagement\STU-front\src\views\teacher\TeacherGrade.vue        | Vue        |        150 |          0 |          7 |        157 |
+| e:\StudentManagement\STU-front\src\views\teacher\TeacherTimetable.vue    | Vue        |         28 |          0 |          5 |         33 |
+| Total                                                                    |            |     29,778 |          8 |        343 |     30,129 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
